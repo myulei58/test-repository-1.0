@@ -5,9 +5,9 @@ this is a test repository
 ------
 
 
-* italicized text *
+*italicized text*
 
-** bolded text **
+**bolded text**
 
 1. list 1
 2. list 2
