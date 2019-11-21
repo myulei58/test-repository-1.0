@@ -11,7 +11,7 @@ this is a test repository
 
 1. list 1
 2. list 2
-  2. sublist 2.1
+   1. sublist 2.1
 
 - unordered list
   - unordered sublist
