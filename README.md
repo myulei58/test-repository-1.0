@@ -28,7 +28,7 @@ $ npm install
 ```
 
 ### Building
-Run Webpack scripts to compile files in either development or production mode. 
+Run Webpack scripts to compile files in either development or production mode. <br />
 **Production Mode:**
 ```
 $ npm run build
@@ -45,7 +45,7 @@ $ npm run start
 ```
 
 ## Built With
-- the Forkify API (https://forkify-api.herokuapp.com/)
+- Forkify API (https://forkify-api.herokuapp.com/)
 - npm - dependency management
 - Webpack - module bundling
 - Babel - ES6+ to ES5 conversion
