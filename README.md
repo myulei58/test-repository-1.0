@@ -1,21 +1,57 @@
-test repo
-======
+# Forkify - Recipe Searching and Saving App
 
-this is a test repository
-------
+Explore over 1,000,000 recipes! Forkify allows users to search for popular dishes or common ingredients, returning a wide variety of recipes based on the query. Users can then check each recipe in detail, get a list of ingredients, save the recipe to a local favorites list, and more!
+
+This web app is the final project from *The Complete JavaScript Course* by Jonas Schmedtmann. It uses modern ES6+ JavaScript and a MVC design pattern. Data is retrieved using the Forkify API, module bundling is done by Webpack, and Babel is used for code conversion for better browser support.
 
 
-*italicized text*
+## Features
 
-**bolded text**
+- Recipe searching (with list of possible queries)
+- Detailed recipe view with list of ingredients
+- Select desired serving size for each recipe, which automatically adjust ingredients quantity
+- Add ingredients for any recipe(s) to modifiable personal shopping list
+- Save any recipe into 'Likes' list, which is saved locally between visits
+- Check detailed cooking instruction from original source
 
-1. list 1
-2. list 2
-   1. sublist 2.1
 
-- unordered list
-  - unordered sublist
+## Screenshot
 
-   indented text
+![screenshot](/screenshot.png)
 
-that is all.
+
+## Installation
+### Dependencies
+Download npm (or Node.js with packaged npm) and install dependencies using:
+```
+$ npm install
+```
+
+### Building
+Run Webpack scripts to compile files in either development or production mode.
+**Production Mode:**
+```
+$ npm run build
+```
+
+**Development Mode:**
+```
+$ npm run dev
+```
+
+**Development using Webpack-dev-server:**
+```
+$ npm run start
+```
+
+## Built With
+- the Forkify API (https://forkify-api.herokuapp.com/)
+- npm - dependency management
+- Webpack - module bundling
+- Babel - ES6+ to ES5 conversion
+- Axios - HTTP client
+- Other functional libraries
+
+
+## Acknowledgements
+- Jonas Schmedtmann, for creating base HTML and CSS files which were modified upon
