@@ -1,4 +1,4 @@
-# (/favicon.png) Forkify - Recipe Searching and Saving App
+# ![logo](/favicon.png) Forkify - Recipe Searching and Saving App
 
 Explore over 1,000,000 recipes! Forkify allows users to search for popular dishes or common ingredients, returning a wide variety of recipes based on the query. Users can then check each recipe in detail, get a list of ingredients, save the recipe to a local favorites list, and more!
 
