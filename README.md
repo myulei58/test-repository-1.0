@@ -28,7 +28,7 @@ $ npm install
 ```
 
 ### Building
-Run Webpack scripts to compile files in either development or production mode. <br />
+Run Webpack scripts to compile files in either development or production mode. <br /><br />
 **Production Mode:**
 ```
 $ npm run build
