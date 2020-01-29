@@ -16,7 +16,7 @@ Similar to the single-dice version, two players take turns rolling two dice duri
 
 ## Screenshot
 
-![screenshot](/folder/Screenshot.png)
+![screenshot](folder/Screenshot.png)
 
 
 ## Acknowledgements
